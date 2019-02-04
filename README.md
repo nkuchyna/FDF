@@ -8,6 +8,7 @@ In this project I discovered the basics of graphic programming, and in particula
 - The coordinates of this landscape are stored in a file passed as a parameter to your program (follow the folder /test_maps).
 
 Usage: ./fdf [file]
+
 Control info: W, A, D - rotate; arrows - translation; +/- - scale. 
 
 BONUS PART:
