@@ -5,32 +5,9 @@ In this project I discovered the basics of graphic programming, and in particula
 
 - Graphic library *miniLibX*  was used. This library was developed internally and includes the minimum necessary to open a window, light a pixel and deal with events linked to this window: keyboard and mouse.
 
-- The coordinates of this landscape are stored in a file passed as a parameter to your program.
+- The coordinates of this landscape are stored in a file passed as a parameter to your program (follow the folder /test_maps).
 
-Example:
-$>cat 42.fdf
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
-0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
-
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-
-0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
-
-0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
-
-0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
-
-0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
-
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
+Usage: ./fdf [file]
 
 BONUS PART:
 - color depends on z coordinate (press the **С key** while the program is running);
@@ -38,4 +15,5 @@ BONUS PART:
 - advanced map parcing;
 - color gradient.
 
+Click to watch project video on YouTube:
 [![Watch project video](https://img.youtube.com/vi/iYTB0YsdWOk/0.jpg)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
