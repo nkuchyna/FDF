@@ -1,6 +1,6 @@
 # FDF
 My first graphic project on C | UNIT Factory | Creating a simplified 3D graphic representation of a relief landscape
-
+--------------------------------------------------------------------------------------------------------------------
 In this project I discovered the basics of graphic programming, and in particular how to place points in space, how to join them with segments and most importantly how to observe the scene from a particular viewpoint.
 
 - Graphic library *miniLibX*  was used. This library was developed internally and includes the minimum necessary to open a window, light a pixel and deal with events linked to this window: keyboard and mouse.
