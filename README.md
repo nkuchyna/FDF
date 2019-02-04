@@ -7,18 +7,18 @@ In this project I discovered the basics of graphic programming, and in particula
 
 * The coordinates of this landscape are stored in a file passed as a parameter to your program.
 Example:
- $>cat 42.fdf
- 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
- 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
- 0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
- 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
- 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
- 0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
- 0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
- 0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
- 0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
- 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
- 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+$>cat 42.fdf
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 
 BONUS PART:
 - color depends on z coordinate (press the **С key** while the program is running);
@@ -26,4 +26,4 @@ BONUS PART:
 - advanced map parcing;
 - color gradient.
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=iYTB0YsdWOk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYTB0YsdWOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
