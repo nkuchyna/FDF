@@ -19,4 +19,4 @@ BONUS PART:
 
 Click to watch project video on YouTube:
 
-[![Watch project video](https://imgflip.com/gif/2st1p0)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
+[![Watch project video](https://i.imgflip.com/2st1p0.gif)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
