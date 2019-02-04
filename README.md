@@ -10,16 +10,27 @@ In this project I discovered the basics of graphic programming, and in particula
 Example:
 $>cat 42.fdf
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
 0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+
 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+
 0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+
 0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+
 0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+
 0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+
 0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
 
 BONUS PART:
 - color depends on z coordinate (press the **С key** while the program is running);
@@ -27,4 +38,4 @@ BONUS PART:
 - advanced map parcing;
 - color gradient.
 
-[![Watch project video](https://img.youtube.com/vi/iYTB0YsdWOk.jpg)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
+[![Watch project video](https://img.youtube.com/vi/iYTB0YsdWOk/0.jpg)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
