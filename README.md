@@ -27,4 +27,4 @@ BONUS PART:
 - advanced map parcing;
 - color gradient.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYTB0YsdWOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch project video](https://img.youtube.com/vi/iYTB0YsdWOk.jpg)](http://www.youtube.com/watch?v=iYTB0YsdWOk)
